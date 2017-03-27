@@ -1,6 +1,6 @@
 # ijkplayer-for-android
 <p>
-最新编译的ijkplayer，支持RTSP/RTMP/HTTP/HLS等协议
+最新编译的ijkplayer，支持RTSP/RTMP/HTTP/HLS等协议,支持MP4/H264等。
 <p>
 
 <p>
