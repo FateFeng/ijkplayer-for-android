@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ijkplayer-arm64" />
+            <option value="$PROJECT_DIR$/ijkplayer-armv5" />
+            <option value="$PROJECT_DIR$/ijkplayer-armv7a" />
+            <option value="$PROJECT_DIR$/ijkplayer-example" />
+            <option value="$PROJECT_DIR$/ijkplayer-exo" />
+            <option value="$PROJECT_DIR$/ijkplayer-java" />
+            <option value="$PROJECT_DIR$/ijkplayer-x86" />
+            <option value="$PROJECT_DIR$/ijkplayer-x86_64" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
