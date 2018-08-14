@@ -4,7 +4,7 @@
 <p>
 
 <p>
-本人邮箱876112610@qq.com 有问题欢迎留言
+本人邮箱2019418863@qq.com 有问题欢迎留言
 <p>
 
 ![](https://github.com/SleepForever/ijkplayer-for-android/blob/master/demo.png)
