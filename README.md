@@ -7,11 +7,11 @@
 
 You can use the [editor on GitHub](https://github.com/FateFeng/FateFeng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![](https://github.com/SleepForever/ijkplayer-for-android/blob/master/demo.png)
-
 ### Help
 
 My email address is 2019418863@qq.com .   Sincerely do I hope that my reply will be helpful to you.
+
+![](https://github.com/SleepForever/ijkplayer-for-android/blob/master/demo.png)
 
 ### Support or Contact
 
